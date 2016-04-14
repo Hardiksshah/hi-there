@@ -2,7 +2,5 @@
 Greetings from me
 
 Greet well!!
-fdsgd
-gvdfg
-ftdfg
-df
+
+don't write useless words
